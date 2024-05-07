@@ -1,2 +1,2 @@
 # QuizGame
-A simple quiz game, i developed during the learning journey
+A collection of easy grade projects i do to pass time
